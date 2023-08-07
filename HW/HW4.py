@@ -1,4 +1,4 @@
-#task 1
+# #task 1
 while True:
     first_word = input("Enter word with 'o': ")
     if 'o' in first_word.lower():
